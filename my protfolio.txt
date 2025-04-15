@@ -1,0 +1,12 @@
+<!DOC TYPE HTML>
+<html>
+<head>
+<title>My portfolio<!title>
+<link rel="stylesheet"
+href="style.css">
+</head>
+<body>
+<h1>Welcome to my portfolio</h1>
+<p>This is a simple static websitedeployed with ci/cd.</p>
+</body>
+</html>
